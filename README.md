@@ -7,6 +7,8 @@
 - Wireshark
 - SQL
 - auth.log
+- Python
+- Incident - response
 
 ## Objetivo
 Aprender análisis de seguridad y documentar laboratorios.
