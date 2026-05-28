@@ -4,11 +4,26 @@
 
 ## Temas vistos
 - Linux
+  │   ├── comandos-basicos.md
+│   ├── auth-log-analysis.md
+│   ├── usuarios-y-permisos.md
+
 - Wireshark
+- │   ├── captura-http.md
+│   ├── analisis-paquetes.md
+
 - SQL
+- │   ├── consultas-basicas.md
+│   ├── inner-join.md
+│   ├── filtros-y-like.md
+
 - auth.log
 - Python
+- │   ├── variables.md
+│   ├── scripts-basicos.md
+
 - Incident - response
+- │   ├── brute-force-analysis.md
 
 ## Objetivo
 Aprender análisis de seguridad y documentar laboratorios.
